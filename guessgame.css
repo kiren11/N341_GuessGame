@@ -1,0 +1,41 @@
+body {
+  background-color: #148F77;
+  font-family: Arial;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+  font-family: Arial;
+}
+
+#Sailor {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial;
+}
+
+#Quartermaster {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial;
+}
+
+#CabinBoy {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial;
+}
+
+#Surgeon {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial;
+}
+
+#Captain {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial;
+}
